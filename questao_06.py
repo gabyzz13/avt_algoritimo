@@ -10,6 +10,6 @@ def f(x=100):
             result.append(expr + "==" + str(x))
     return result
 
-#Utilizando os exemplos da questão
+#Usando os exemplos da questão
 for eq in f(100):
     print(eq)
